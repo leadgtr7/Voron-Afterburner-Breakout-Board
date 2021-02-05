@@ -17,5 +17,5 @@ Optional: I also modified the chain anchor to add a zip tie for strain relief on
 
 In addition you will need 2 M2x6mm screws. I used machine screws and wouldn't recommend using the standard voron M2 plastic screws as they are too long
 
-I have also uploaded some pictures of the board installed on the toolhead here
+I have also uploaded some pictures of the board installed on the toolhead here. Make sure to trim the leads on the terminal blocks down as the may short on the motor body!
 https://github.com/leadgtr7/Voron-Afterburner-Breakout-Board/tree/main/Reference%20Photos
