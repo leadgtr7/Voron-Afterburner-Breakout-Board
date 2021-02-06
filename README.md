@@ -1,5 +1,22 @@
 # Voron-Afterburner-Breakout-Board
-This is a breakout board for use with the Voron Afterburner toolhead. It reduces the number of wires in the cable chain to 14
+This is a breakout board for use with the Voron Afterburner toolhead. 
+Typically there would be the following wires for the tool head
+2 for Hot End Fan
+2 For Part Fan
+4 For Stepper
+2 For thermistor
+2 For Heater
+3 For Probe
+2 For Endstop
+for a total of 17 wires
+
+This Board removes reduntant connection across the tool head and thus reduces the number of wires in the cable chain to 14
+
+I have only used this board with an SKRv1.3
+
+If you use a different board you will need to make sure that your board switches the fans on the ground side (ie common 24v).
+
+This does not replace the need for a BAT-85 (or similar schottky diode) on the probe output. Could probably add to the board but space is already really tight.
 
 You will find a spreadsheet with all the wiring colors and info here as well as a part BOM
 https://github.com/leadgtr7/Voron-Afterburner-Breakout-Board/blob/main/Voron%20Toolhead%20Breakout%20Board.xlsx
