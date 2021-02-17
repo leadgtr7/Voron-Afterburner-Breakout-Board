@@ -20,6 +20,7 @@ This does not replace the need for a BAT-85 (or similar schottky diode) on the p
 
 You will find a spreadsheet with all the wiring colors and info here as well as a part BOM
 https://github.com/leadgtr7/Voron-Afterburner-Breakout-Board/blob/main/Voron%20Toolhead%20Breakout%20Board.xlsx
+https://github.com/leadgtr7/Voron-Afterburner-Breakout-Board/blob/main/AB%20BOB%20Wiring%20Diagram.pdf
 
 kicad files are here
 https://github.com/leadgtr7/Voron-Afterburner-Breakout-Board/tree/main/kicad%20Project
